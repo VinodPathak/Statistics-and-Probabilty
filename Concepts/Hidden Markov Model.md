@@ -4,6 +4,7 @@ https://towardsdatascience.com/part-of-speech-tagging-with-hidden-markov-chain-m
 
 Viterbi Algorithm:  
 >> https://github.com/llrs/Viterbi/blob/master/Viterbi.py  
+>> https://stackoverflow.com/questions/9729968/python-implementation-of-viterbi-algorithm  
 
 ### Videos  
 https://www.youtube.com/watch?v=jY2E6ExLxaw  
